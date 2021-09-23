@@ -1,1 +1,3 @@
-# raytracing
+# Ray tracing
+
+for fun & profit
